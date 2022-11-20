@@ -19,5 +19,5 @@ The projects included here include working code and some experimental code. Some
 > This project requires that you install the flask module. After that, when you run it, it will create a web server on your machine and host your Python and HTML files in dynamic web pages.
 7. Data Analytics with Jupyter and Pandas
 > COMING SOON
-8. Python Coding Project, Checkers
+8. Python Coding Project, Checkers, this game is created using PyGame anf the tutoirial with TechwitTim. Checkers is one of the oldest one on one games in the world, so universal that almost everyone in the world knows how to use it. 
 .
