@@ -8,4 +8,4 @@
 - [ ] Follow tutorial three and test code again
 - [ ] Add personal touch to code
 - [ ] Add notes to code and personal touches
-- [ ] 
+- [ ] Create Sprint 3 PowerPoint slide
