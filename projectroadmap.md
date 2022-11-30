@@ -5,7 +5,11 @@
 - [x] Run code in VS code
 - [x] Follow tutorial two...
 - [x] Test code in VS Code
-- [ ] Follow tutorial three and test code again
+- [x] Follow tutorial three and test code again
 - [ ] Add personal touch to code
-- [ ] Add notes to code and personal touches
 - [ ] Create Sprint 3 PowerPoint slide
+- [ ] Add notes to code
+- [ ] Continue presentation
+- [ ] Complete presentation
+
+
